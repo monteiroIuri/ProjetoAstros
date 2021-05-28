@@ -2,7 +2,7 @@
 Na animação abaixo é possível visualizar o projeto em execução.
 
 
-![eventos-astronomicos](https://user-images.githubusercontent.com/83467630/120047358-c0a19700-bfea-11eb-927e-017b33126407.gif)
+![evento-astro](https://user-images.githubusercontent.com/83467630/120049545-af5b8900-bff0-11eb-847b-c6d7db389bdb.gif)
 
 
 
